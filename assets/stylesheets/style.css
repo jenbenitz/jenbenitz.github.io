@@ -527,8 +527,7 @@ footer strong {
   color: #d01e43;
 }
 footer .connect {
-  width: 100%;
-  max-width: 500px;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
